@@ -1,6 +1,5 @@
-# Ordering-ChatBot
+# Dialogflow Chatbot for Food Ordering
 
-Dialogflow Chatbot for Food Ordering
 This is a food ordering chatbot built using Google Dialogflow, FastAPI, and MySQL. The chatbot allows users to place orders, modify them, and track their total cost seamlessly.
 
 Features
